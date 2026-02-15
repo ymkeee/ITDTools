@@ -41,6 +41,8 @@
 
 **Установка:** `notifications-changer/`
 
+---
+
 ## 🚀 Общая установка
 
 1. Открой `chrome://extensions/`
